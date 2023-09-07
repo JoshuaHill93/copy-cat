@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    }
+
+p{
+    margin-right: 5%;
+   
+}
+
+h5{
+    margin-left: 6%;
+  
+}
+
+label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+  }
+  
+  input,
+  label {
+    height: 20px;
+  }
+
+
+  .search{
+    height: 20px;
+  }
+
+  ul{
+   display: flex;
+   justify-content: space-between;
+   background-color: #ffc700;
+  font-size:25px;
+  font-weight:bolder;
+ list-style: none;
+  height: 9vh
+}
+
+.all{
+   background-color:#35404e; 
+   color: azure;
+}
