@@ -20,7 +20,6 @@ label {
     display: block;
     font:
       1rem 'Fira Sans',
-      sans-serif;
   }
   
   input,
@@ -47,3 +46,18 @@ label {
    background-color:#35404e; 
    color: azure;
 }
+
+.car{
+  display: flex;
+  gap: 10px;
+}
+
+aside{
+ column-gap:20px;
+}
+aside , p{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 17px;
+}
+
