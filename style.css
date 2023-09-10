@@ -22,8 +22,7 @@ label {
       1rem 'Fira Sans',
   }
   
-  input,
-  label {
+  input, label {
     height: 20px;
   }
 
@@ -60,4 +59,63 @@ aside , p{
   font-weight: bolder;
   font-size: 17px;
 }
+
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  column-gap:   250px;
+  color: white;
+}
+
+
+
+.icons1{
+  height: 100px;
+  width: 150px;
+  background-color: rgb(16, 59, 73);
+  border-radius: 9%;
+  padding: 1%;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:xx-large;
+}
+.icons2{
+  height: 100px;
+  width: 120px;
+  background-color: rgb(16, 59, 73);
+  border-radius: 9%;
+  padding: 1%;
+  font-family: sans-serif;
+  font-size: 20px;
+  
+}
+
+.icons3{
+  height: 100px;
+  width: 120px;
+  background-color: rgb(16, 59, 73);
+  border-radius: 9%;
+  padding: 1%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.icons4{
+  height: 100px;
+  width: 120px;
+  background-color: rgb(16, 59, 73);
+  border-radius: 9%;
+  padding: 1%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+  
+
+
+
+
+
+
+
 
